@@ -1,0 +1,4 @@
+set(CMAKE_BUILD_TYPE Debug)
+set (CMAKE_CXX_STANDARD 11)
+PROJECT(main)
+ADD_EXECUTABLE(main main.cc)
